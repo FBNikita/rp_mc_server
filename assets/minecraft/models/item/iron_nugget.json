@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {"layer0": "minecraft:item/iron_nugget"},
+    "overrides": [
+        {"predicate": {"custom_model_data": 222101},"model": "minecraft:item/fbnikita/chip_1"},
+        {"predicate": {"custom_model_data": 222102},"model": "minecraft:item/fbnikita/chip_5"},
+        {"predicate": {"custom_model_data": 222103},"model": "minecraft:item/fbnikita/chip_10"},
+        {"predicate": {"custom_model_data": 222104},"model": "minecraft:item/fbnikita/chip_25"},
+        {"predicate": {"custom_model_data": 222105},"model": "minecraft:item/fbnikita/chip_50"},
+        {"predicate": {"custom_model_data": 222106},"model": "minecraft:item/fbnikita/chip_100"}
+    ]
+}

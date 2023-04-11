@@ -1,0 +1,69 @@
+Pack ID: 22
+Model number formar: 22igtt -> i = Item ID, g = Group ID, tt = Texture ID
+Registered at: https://mcdatapack.vercel.app/
+
+-------------------------------------------------------------------------------------------------------
+Item ID   Item name   Group ID   Group Name          Texture ID   Texture Name        Full model number
+-------------------------------------------------------------------------------------------------------
+1         Paper       1          Cards of Clubs      01           2 of Clubs          221101
+                                                     02           3 of Clubs          221102
+                                                     03           4 of Clubs          221103
+                                                     04           5 of Clubs          221104
+                                                     05           6 of Clubs          221105
+                                                     06           7 of Clubs          221106
+                                                     07           8 of Clubs          221107
+                                                     08           9 of Clubs          221108
+                                                     09           10 of Clubs         221109
+                                                     10           Jack of Clubs       221110
+                                                     11           Queen of Clubs      221111
+                                                     12           King of Clubs       221112
+                                                     13           Ace of Clubs        221113
+                      ---------------------------------------------------------------------------------
+                      2          Cards of Spades     01           2 of Spades         221201
+                                                     02           3 of Spades         221202
+                                                     03           4 of Spades         221203
+                                                     04           5 of Spades         221204
+                                                     05           6 of Spades         221205
+                                                     06           7 of Spades         221206
+                                                     07           8 of Spades         221207
+                                                     08           9 of Spades         221208
+                                                     09           10 of Spades        221209
+                                                     10           Jack of Spades      221210
+                                                     11           Queen of Spades     221211
+                                                     12           King of Spades      221212
+                                                     13           Ace of Spades       221213
+                      ---------------------------------------------------------------------------------
+                      3          Cards of Diamonds   01           2 of Diamonds       221301
+                                                     02           3 of Diamonds       221302
+                                                     03           4 of Diamonds       221303
+                                                     04           5 of Diamonds       221304
+                                                     05           6 of Diamonds       221305
+                                                     06           7 of Diamonds       221306
+                                                     07           8 of Diamonds       221307
+                                                     08           9 of Diamonds       221308
+                                                     09           10 of Diamonds      221309
+                                                     10           Jack of Diamonds    221310
+                                                     11           Queen of Diamonds   221311
+                                                     12           King of Diamonds    221312
+                                                     13           Ace of Diamonds     221313
+                      ---------------------------------------------------------------------------------
+                      4          Cards of Hearts     01           2 of Hearts         221401
+                                                     02           3 of Hearts         221402
+                                                     03           4 of Hearts         221403
+                                                     04           5 of Hearts         221404
+                                                     05           6 of Hearts         221405
+                                                     06           7 of Hearts         221406
+                                                     07           8 of Hearts         221407
+                                                     08           9 of Hearts         221408
+                                                     09           10 of Hearts        221409
+                                                     10           Jack of Hearts      221410
+                                                     11           Queen of Hearts     221411
+                                                     12           King of Hearts      221412
+                                                     13           Ace of Hearts       221413
+                      ---------------------------------------------------------------------------------
+                      5          Back side           01           Back side           221501
+-------------------------------------------------------------------------------------------------------
+2       Iron Nugget   1          Chip                01           Chip                222101
+-------------------------------------------------------------------------------------------------------
+3       Gray Pannel   1          Armor Shop          01           Armor Shop          223101
+-------------------------------------------------------------------------------------------------------

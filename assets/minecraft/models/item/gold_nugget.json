@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {"layer0": "item/gold_nugget"},
+	"overrides": [
+        {"predicate": {"custom_model_data": 223101}, "model": "item/ui/shop"}
+    ]
+}

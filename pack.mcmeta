@@ -1,0 +1,26 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": [
+            "",
+            {
+                "text": "FBNikita's Casino Resource pack",
+                "color": "green"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "Created by ",
+                "italic": true,
+                "color": "yellow"
+            },
+            {
+                "text": "FBNikita",
+                "bold": true,
+                "italic": true,
+                "color": "gold"
+            }
+        ]
+    }
+}
